@@ -11,3 +11,7 @@ Then open <code>index.html</code> with your favorite browser, for values of favo
 Dependencies
 ============
 My fork of the Emokit library, found [here](https://github.com/agermanidis/emokit).
+
+Demo
+====
+You can view a (simulation) demo [here](http://makemyactionschainreactions.net/eeg/). 
