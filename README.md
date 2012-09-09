@@ -8,7 +8,7 @@ Connect your Emotiv EPOC device. [This is optional - if no device is detected, t
 
     python websocket.py
 
-Then open <code>index.html</code> with your favorite browser, for values of favorite browser from (Chrome, Safari). 
+Then open <code>index.html</code> with your favorite browser.
 
 Dependencies
 ============
