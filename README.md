@@ -1,9 +1,11 @@
 Braincast
 =========
-Broadcast you brainwaves online.
+Broadcast your brainwaves online. 
 
 Use
 ===
+Connect your Emotiv EPOC device. [This is optional - if no device is detected, the server will stream simulated EEG data]
+
     python websocket.py
 
 Then open <code>index.html</code> with your favorite browser, for values of favorite browser from (Chrome, Safari). 
